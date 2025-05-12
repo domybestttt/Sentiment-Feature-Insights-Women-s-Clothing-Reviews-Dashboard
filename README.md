@@ -1,6 +1,6 @@
 # 👗 Women's Clothing Reviews: Sentiment & Feature Insights
-
-A comprehensive Power BI dashboard analyzing customer reviews and sentiments in women's clothing.
+This is my very First Dashboard, which I built using Power BI as a part of my Internal Assessment of AI in E-Commerce Course.
+It comprehensive Power BI dashboard analyzing customer reviews and sentiments in women's clothing.
 
 ## Purpose
 This dashboard provides a detailed visual analysis of women's clothing reviews, exploring sentiment distribution, rating patterns, department breakdowns, and customer demographics across different product categories.
