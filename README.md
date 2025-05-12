@@ -43,7 +43,7 @@ Dataset covering women's clothing reviews, including sentiment analysis, ratings
 • Age distribution histogram
 
 ## Screenshots
-![Women's Clothing Reviews Dashboard](path/to/your/screenshot.png)
+![Women's Clothing Reviews Dashboard](SENTIMENT-ANALYSIS-DASHBOARD.png)
 
 ## Project Hashtags
 #DataVisualization #PowerBI #CustomerInsights #FashionAnalytics #SentimentAnalysis
