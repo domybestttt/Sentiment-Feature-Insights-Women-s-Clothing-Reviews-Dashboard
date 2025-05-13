@@ -9,8 +9,11 @@ This dashboard provides a detailed visual analysis of women's clothing reviews, 
 ## Tech Stack
 
 • 📊 **Power BI Desktop** – Primary data visualization platform
-• 📁 **File Format** – .pbix for dashboard development  
+
+• 📁 **File Format** – .pbix for dashboard development 
+
 • 🧠 **Google Colab** – Advanced sentiment analysis processing
+
 • 🐍 **Python** – Data preprocessing and sentiment analysis
 
 ## Data Processing Pipeline
@@ -44,10 +47,13 @@ Dataset covering women's clothing reviews, including sentiment analysis, ratings
 
 ### Key Insights
 • Total ratings analyzed: 23.49K
+
 • Number of departments: 7
+
 • Sentiment distribution:
   - Predominantly positive reviews
   - Minimal negative feedback
+    
 • Department coverage:
   - Bottoms
   - Dresses
